@@ -1,0 +1,17 @@
+## Interface: 30300
+## Title: FocusRollManager
+## Notes: ICC25 HC/NHC Focus Roll Manager with external tool import/export support
+## Author: blackwarrior309 + GPT
+## Version: 0.1.0
+## SavedVariables: FocusRollManagerDB
+
+Core.lua
+Data.lua
+Utils.lua
+Synonyms.lua
+ImportExport.lua
+Roster.lua
+Loot.lua
+Rolls.lua
+Debug.lua
+UI.lua
