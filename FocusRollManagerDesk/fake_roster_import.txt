@@ -1,0 +1,1 @@
+FRMROSTER1|Blackpanther;DRUID|Healbot;PRIEST|Tankyx;WARRIOR|Mageone;MAGE|Svenn;PALADIN|Matze;ROGUE|Shadowkeks;WARLOCK|Hunterjoe;HUNTER|Schamix;SHAMAN|Deathgrip;DEATHKNIGHT
